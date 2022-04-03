@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.borders {
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.App {
+  height: auto;
+  width: 98%;
+  margin-left: 10px;
+  margin-top: 5px;
+  display: flex;
+  background-color: antiquewhite;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 1);
+  position: relative;
+}
+.agreement {
+  color: red;
+  margin: 10px;
+  margin-left: 320px;
+}
+.link-detials {
+  font-size: 20px;
+  margin-top: 17px;
+  text-underline: none;
+}
+.link-detials-information {
+  margin: 1 px;
+  padding: 1px;
+  text-underline: none;
+}
+.link-detials-information ul {
+  margin: 23px;
+  padding: 10px;
+  text-underline: none;
+  list-style-type: none;
+  color: black;
+}
+ul {
+  list-style-type: none;
+  margin: 10px;
+  list-style: none;
+}
+li {
+  list-style-type: none;
+  list-style: none;
+  color: black;
+}
+.link-detials-information ul li {
+  margin: 3px;
+  padding: 4px;
+  text-underline: none;
+  list-style-type: none;
+}
+.infomation {
+  width: 95%;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 5px;
+}
+.infomation h3 {
+  padding: 5px;
+  margin: 6px;
+}
+.infomation p {
+  margin: 2px;
+  padding: 3px;
+}
+.case p {
+  color: black;
+
+  border-radius: 50%;
+}
+.case h3 {
+  font-size: 20px;
+  text-underline: none;
+}
